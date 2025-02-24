@@ -1,5 +1,4 @@
 import Image from "next/image"
-import { galano } from "./fonts"
 
 export default function Page() {
   return (
@@ -30,7 +29,8 @@ export default function Page() {
               />
             </div>
             <p
-              className={`${galano.className} text-xl sm:text-2xl md:text-3xl text-white opacity-90 tracking-wide transition-opacity duration-300 hover:opacity-100`}
+              style={{ fontFamily: "Galano Grotesque Light" }}
+              className="text-xl sm:text-2xl md:text-3xl text-white opacity-90 tracking-wide transition-opacity duration-300 hover:opacity-100"
             >
               Em breve novidades. Aguarde
             </p>
