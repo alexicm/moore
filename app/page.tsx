@@ -29,7 +29,7 @@ export default function Page() {
             <div className="flex flex-col items-center gap-8">
               <div className="relative h-[100px] w-[300px] sm:h-[150px] sm:w-[450px] md:h-[200px] md:w-[600px]">
                 <Image
-                  src="https://cdn.shopify.com/s/files/1/0649/1353/9116/files/logo_1_com_tagline_moore-02.svg?v=1748036902"
+                  src="https://cdn.shopify.com/s/files/1/0638/1132/1923/files/logo_1_sem_tagline_moore-02.svg?v=1748136998"
                   alt="Moore Brasil Logo"
                   fill
                   className="object-contain"
